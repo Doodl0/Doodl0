@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=7663&api_domain=hackatime.hackclub.com&theme=dracula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+I don't use LLMs or AI
+![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=7663&api_domain=hackatime.hackclub.com&theme=github_dark_dimmed&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
